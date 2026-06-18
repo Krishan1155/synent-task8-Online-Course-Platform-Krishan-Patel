@@ -101,7 +101,7 @@ online-course-platform/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/online-course-platform.git
+git clone https://github.com/Krishan1155/synent-task8-Online-Course-Platform-Krishan-Patel.git
 cd online-course-platform
 ```
 
